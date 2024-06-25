@@ -31,11 +31,11 @@
                     Em qualquer pasta do seu computador, de preferencia uma pasta que não possua caracteres especiais.
                 </p>
                 <p>Em seguida abra o git bash e digite o código a seguir:</p>
-                <pre><code>git clone https://github.com/Lucas-Dreveck/ProjetoFinalDocker</code></pre>
+                <pre><code>git clone https://github.com/mafebordignon/ProjetoDocker.git</code></pre>
             </li>
             <li>
                 Com o projeto clonado em sua máquina, acesse a pasta do projeto:
-                <pre><code>cd ProjetoFinalDocker</code></pre>
+                <pre><code>cd ProjetoDocker</code></pre>
             </li>
         </ol>
     </div>
